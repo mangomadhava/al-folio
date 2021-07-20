@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Stuff I do. 
 nav: true
-display_categories: [work, fun]
+display_categories: [Nasa Harvest, Applied Physics Lab, School/Side Projects]
 horizontal: false
 ---
 <div class="projects">
@@ -40,7 +40,7 @@ horizontal: false
       <div class="container">
         <div class="row row-cols-2">
         {% for project in sorted_projects %}
-          {% include projects_horizontal.html %}
+          {% include projects_hrz.html %}
         {% endfor %}
         </div>
       </div>
@@ -55,3 +55,5 @@ horizontal: false
   {% endif %}
 
 </div>
+
+Click <a href="https://github.com/mangomadhava?tab=repositories"> here </a> to see more personal projects.
