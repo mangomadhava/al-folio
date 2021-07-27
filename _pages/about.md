@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a student at the University of Maryland College Park studying computer science. During the school year, I do research through the university at Nasa Harvest and the past two summers I have interned at John Hopkins Applied Physics Lab.
+I am a student at the University of Maryland College Park studying computer science. During the school year, I do research through the university at NASA Harvest and the past two summers I have interned at John Hopkins Applied Physics Lab.
 
 I also play the mridangam, a south Indian percussion instrument for programs in the DC area. I also like to eat mangoes🥭, make puzzles, and look at clouds.
 

@@ -15,7 +15,7 @@ I accompany carnatic musicians and dancers on <a href="https://en.wikipedia.org/
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/m1.jpeg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-         I started learning mrdangam from <a href="https://srinathlayam.com/?page_id=26">Srinath Bala</a> of the <a href = "https://jayamangala.org/" > Jayamangala School of Music and Dance </a> in Maryland, from the age of 6 years, regularly for 10 years.  I still take advanced training from my guru for concerts, dance recitals, etc.  I started accompanying at the age of 12 and accompany Carnatic musicians and dancers of the DC area, visiting artists from India, and artists in India as well. I also actively participate in percussion ensembles and music festivals in the DC area. I recently started learning tabla from Anirudh Alva Changogoti. 
+         I started learning mrdangam from <a href="https://srinathlayam.com/?page_id=26">Srinath Bala</a> of the <a href = "https://jayamangala.org/" > Jayamangala School of Music and Dance </a> in Maryland, from the age of 6 years, regularly for 10 years.  I still take advanced training from my guru for concerts, dance recitals, etc.  I started accompanying at the age of 12 and accompany Carnatic musicians and dancers of the DC area, visiting artists from India, and artists in India as well. I also actively participate in percussion ensembles and music festivals in the DC area. I recently started learning tabla from Anirudh Alva Changokoti. 
     </div>
 </div>
 

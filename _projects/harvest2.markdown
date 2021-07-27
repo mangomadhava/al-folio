@@ -4,7 +4,7 @@ title: Cropland Mask
 description: Different methods for cropland segmentation from satellite images.
 img: /assets/img/timelapse.gif
 importance: 2
-category: Nasa Harvest
+category: NASA Harvest
 ---
 
 <h5 id="skills-used-">Skills used:</h5>

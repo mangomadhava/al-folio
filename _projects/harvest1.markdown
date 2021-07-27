@@ -4,7 +4,7 @@ title: Cropland Classification
 description: Exploration of different methods of predicting croptype from satellite time series data.
 img: /assets/img/timeseries.png
 importance: 3
-category: Nasa Harvest
+category: NASA Harvest
 ---
 <h5 id="skills-used-">Skills used:</h5>
 <ol>

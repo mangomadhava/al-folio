@@ -1,18 +1,26 @@
 ---
 layout: page
 title: Satellite Dataset Creation
-description: Labeling multi spectral and multi temporal sattelite data for deep learning in ArcGIS.
-img:
+description:  Code development and data processing of sattelite images
+img: /assets/img/sentinel2-sample.jpeg
 importance: 3
 category: Applied Physics Lab
 ---
 
-I used ArcGIS to label satellite data from multiple sources to be used in a deep learning software.
+I helped crop satelite data to be labeled for a deep learning application.
 
 <h5 id="skills-used-">Skills used:</h5>
-<li>ArcGIS</li>
+<li>Virtual Machines</li>
 <li>Python scripting</li>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sentinel2-sample.jpeg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    An example of a Sentinel2 satellite image.
+</div>
 
 
-Summer 2021. 
+Summer 2021.

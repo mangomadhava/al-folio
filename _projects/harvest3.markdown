@@ -4,7 +4,7 @@ title: Street2Sat
 description: Machine learning pipeline for creating ground truth geo-referenced labeled datasets from street level images.
 img: /assets/img/predictions-s2s.png
 importance: 1
-category: Nasa Harvest
+category: NASA Harvest
 ---
 
 PAPER ACCEPTED TO ICML CLIMATE CHANGE <a href="https://www.climatechange.ai/papers/icml2021/74">WORKSHOP</a>

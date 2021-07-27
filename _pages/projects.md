@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Stuff I do. 
+description: Stuff I do.
 nav: true
-display_categories: [Nasa Harvest, Applied Physics Lab, School/Side Projects]
+display_categories: [NASA Harvest, Applied Physics Lab, School/Side Projects]
 horizontal: false
 ---
 <div class="projects">
