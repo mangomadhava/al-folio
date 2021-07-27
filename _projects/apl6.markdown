@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Satellite Dataset Creation
-description:  Code development and data processing of sattelite images
+description:  Code development and data processing of satellite images
 img: /assets/img/sentinel2-sample.jpeg
 importance: 3
 category: Applied Physics Lab
 ---
 
-I helped crop satelite data to be labeled for a deep learning application.
+I helped crop satellite data to be labeled for a deep learning application.
 
 <h5 id="skills-used-">Skills used:</h5>
 <li>Virtual Machines</li>

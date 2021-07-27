@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terrain Relative Navigation
-description: Analysis of flight software for Nasa's dragonfly mission to Titan.
+description: Analysis of flight software for NASA's dragonfly mission to Titan.
 img: /assets/img/dragonfly-on-surface.jpeg
 importance: 1
 category: Applied Physics Lab
@@ -13,7 +13,7 @@ category: Applied Physics Lab
     </div>
 </div>
 <h5 id="skills-used-">The Mission:</h5>
-<a href="https://dragonfly.jhuapl.edu/"> Dragonfly </a> is a Nasa Mission that will put a drone on the largest moon of Saturn, Titan, in the 2030's. It is set for launch in 2027, and will investigate the atmosphere and geology of <a href="https://dragonfly.jhuapl.edu/Why-Titan/"> Titan</a>. Being millions of miles from Earth, it requires autonomous flight based on its camera and sensors.
+<a href="https://dragonfly.jhuapl.edu/"> Dragonfly </a> is a NASA Mission that will put a drone on the largest moon of Saturn, Titan, in the 2030's. It is set for launch in 2027, and will investigate the atmosphere and geology of <a href="https://dragonfly.jhuapl.edu/Why-Titan/"> Titan</a>. Being millions of miles from Earth, it requires autonomous flight based on its camera and sensors.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

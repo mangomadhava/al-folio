@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hyperparamter Optimization
+title: hyperparamter optimization
 description: Beyesian optimization for hyperparameter selection for machine learning methods.
 img: /assets/img/hyper-param-opt.png
 importance: 6

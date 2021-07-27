@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bayesian Networks
-description: Analysis of multivariable beyesian networks using numpy and matplotlib.
+description: Analysis of multivariable bayesian networks using numpy and matplotlib.
 img: /assets/img/beyesian-networks.png
 importance: 3
 category: Applied Physics Lab
