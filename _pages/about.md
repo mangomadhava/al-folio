@@ -18,6 +18,9 @@ I am a student at the University of Maryland College Park studying computer scie
 
 I also play the mridangam, a south Indian percussion instrument for programs in the DC area. I also like to eat mangoes🥭, make puzzles, and look at clouds.
 
+
+Click <a href="https://mangomadhava.github.io/madhava.github.io/resumeandreports/"> here</a> for my resume. 
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
