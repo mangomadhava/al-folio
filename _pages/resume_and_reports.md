@@ -12,7 +12,7 @@ Download a copy of my current <a href="../assets/pdf/Madhava_Paliyam_Resume.pdf"
 #### Peer Reviewed Published Papers:
 ICML Climate Change in AI Workshop (First Author) <a href="../assets/pdf/Street2Sat.pdf" download>paper</a>.
 
-KDD Humanitarian Mapping Workshop <a href="../assets/pdf/Humanitarian_Mapping_Workshop.pdf" download>paper</a>.
+KDD Humanitarian Mapping Workshop <a href="https://arxiv.org/abs/2006.16866" view>paper</a>.
 
 
 #### Project Reports:
