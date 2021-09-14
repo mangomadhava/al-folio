@@ -11,7 +11,7 @@
   Madhava  Paliyam
 
 
-  | blog
+  | Terrain Relative Navigation
 
 </title>
 <meta name="description" content="A beautiful, simple, clean, and responsive Jekyll theme for academics">
@@ -36,7 +36,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥭</text></svg>">
 
 <link rel="stylesheet" href="/madhava.github.io/assets/css/main.css">
-<link rel="canonical" href="/madhava.github.io/blog/">
+<link rel="canonical" href="/madhava.github.io/projects/apl5/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -124,8 +124,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/madhava.github.io/mridangam/">
                 mridangam
@@ -173,56 +171,40 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>a simple whitespace theme for academics</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Terrain Relative Navigation</h1>
+    <p class="post-description">Analysis of flight software for NASA's dragonfly mission to Titan.</p>
+  </header>
 
+  <article>
+    <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/madhava.github.io/assets/img/dragonfly-on-surface.jpeg" alt="" title="example image" />
+    </div>
+</div>
+<h5 id="skills-used-">The Mission:</h5>
+<p><a href="https://dragonfly.jhuapl.edu/"> Dragonfly </a> is a NASA Mission that will put a drone on the largest moon of Saturn, Titan, in the 2030’s. It is set for launch in 2027, and will investigate the atmosphere and geology of <a href="https://dragonfly.jhuapl.edu/Why-Titan/"> Titan</a>. Being millions of miles from Earth, it requires autonomous flight based on its camera and sensors.</p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/madhava.github.io/blog/2021/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">May 22, 2021</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/madhava.github.io/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/madhava.github.io/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-  </ul>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/madhava.github.io/assets/img/dragonfly-landing.png" alt="" title="example image" />
+    </div>
+</div>
 
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/madhava.github.io/blog/index.html" title="blog">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/madhava.github.io/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/madhava.github.io/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/madhava.github.io/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+<h5 id="skills-used-">Terrain Relative Navigation</h5>
+<p>Dragonfly’s terrain relative navigation team uses fast fourier transforms and other methods to match features between subsequent images to accurately determine position and velocity. I analyzed the flight algorithm for errors that could occur due to camera and sensor miscalibration, which could occur due to the harsh conditions during liftoff and while on Titan. I designed a study to test for possible miscalibration that could occur and delivered results that helped guide the development for the final version of their algorithm to accurately navigate the drone on Titan.</p>
 
+<p>I also helped compare the current flight algorithm being developed to other state of the art feature detection algorithms. This information is needed to explain to NASA the reasons for choosing a specific algorithm.</p>
 
+<h5 id="skills-used-">Skills used:</h5>
+<li>Matlab Software Development</li>
+<li>Analysis and comparison of errors</li>
+<li>Source and version control on an active repository</li>
+<li>Gained knowledge of camera parameters, ex. camera principle distance, focal distance, intrinsic/extrinsic matrix, and distortion correction</li>
+
+<p>Summer 2021.</p>
+
+  </article>
 
 </div>
 
